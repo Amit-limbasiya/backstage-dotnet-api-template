@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\${{values.component_id}}.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HkZREd1yKqdoR9XWGBndJsbLNStQmWLS3A0Fx7LDSD4=",
+  "Source": "${{values.component_id}}",
+  "BasePath": "_content/${{values.component_id}}",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
