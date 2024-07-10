@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: Amit-limbasiya/backstage-dotnet-api-template
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: guests
