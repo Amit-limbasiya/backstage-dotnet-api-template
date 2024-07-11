@@ -4,7 +4,7 @@ kind: Template
 metadata:
   name: example-dotnet-api-template
   title: Example dotnet webapi Template
-  description: An example template for the scaffolder that creates a simple dotnet api with one /test get request
+  description: An example template for the scaffolder that creates a simple dotnet api Test GET,POST,PUT,DELETE requests.
 spec:
   owner: 'Amit-limbasiya'
   type: service
