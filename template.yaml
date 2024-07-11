@@ -45,8 +45,7 @@ spec:
       input:
         url: ./skeleton
         values:
-          name: ${{ parameters.name }}
-          component_id: ${{ parameters.name }}_component
+          component_id: ${{ parameters.name }}
 
     # This step publishes the contents of the working directory to GitHub.
     - id: publish
