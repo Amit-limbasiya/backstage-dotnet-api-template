@@ -6,7 +6,7 @@ metadata:
   title: Example dotnet webapi Template
   description: An example template for the scaffolder that creates a simple dotnet api with one /test get request
 spec:
-  owner: user:guest
+  owner: 'Amit-limbasiya'
   type: service
 
   # These parameters are used to generate the input form in the frontend, and are
