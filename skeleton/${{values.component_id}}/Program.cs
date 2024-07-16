@@ -35,8 +35,8 @@ app.MapPut("/test-put", () =>
     Log.Warning("This is a test PUT request!");
 });
 app.MapDelete("/test-delete", () =>
-{
-    Log.Error("This is a test DELETE request!");
+{    
+    Log.Error("This is a test DELETE request! ");
 });
 
 app.Run();

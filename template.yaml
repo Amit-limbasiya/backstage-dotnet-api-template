@@ -55,7 +55,7 @@ spec:
         allowedHosts: ['github.com']
         description: This is ${{ parameters.name }} github repo created to test backstage
         repoUrl: ${{ parameters.repoUrl }}
-
+        # repoVisibility: public # default is private
     # The final step is to register our new component in the catalog.
     # - id: register
     #   name: Register
