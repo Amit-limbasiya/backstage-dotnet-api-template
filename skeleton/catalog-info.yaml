@@ -4,7 +4,7 @@ metadata:
   name: test-api
   description: Test API
   annotations:
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: file:./README.md
 spec:
   type: service
   lifecycle: experimental
